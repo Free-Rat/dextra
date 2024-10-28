@@ -10,6 +10,7 @@
 					swiftpm
 					swiftPackages.Foundation
 					swift-corelibs-libdispatch
+					ncurses6
 				];
 			in
 				{
@@ -18,6 +19,7 @@
 						swift
 						swiftpm
 						swiftPackages.Foundation
+						ncurses6
 						# darwin.apple_sdk.frameworks.AppKit
 					];
 
