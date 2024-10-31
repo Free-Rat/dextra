@@ -6,6 +6,7 @@ comfortable, skillfull, modal text editor.
 therefore it is not:
  - terminal multiplexer 
  - operating system
+
 like some other text editors trying to be.
 
 #### 2. Less clicks does not mean better
