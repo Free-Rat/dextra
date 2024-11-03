@@ -1,15 +1,14 @@
 # dextra
-comfortable, skillfull, modal text editor.
+Comfortable, skillful, modal text editor.
 
-### philosophy:
-#### 1. It is **JUST** text editor
-therefore it is not:
- - terminal multiplexer 
- - operating system
+### Philosophy:
+#### 1. Meant to be **JUST** a text editor
+Therefore it is not:
+ - a terminal multiplexer 
+ - an operating system
 
-like some other text editors trying to be.
+unlike some other text editors are trying to be.
 
-#### 2. Less clicks does not mean better
+#### 2. Fewer clicks do not mean better
 Speed through comfort and intuition.
-Five intuitive keystrokes are better than three unintuitive.
-
+Five intuitive keystrokes are better than three unintuitive ones.
